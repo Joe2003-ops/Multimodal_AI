@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+nltk
+tensorflow-cpu>=2.16.0
+tensorboard
+steamlit
+setuptools
