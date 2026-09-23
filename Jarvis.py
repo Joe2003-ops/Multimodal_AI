@@ -1,3 +1,6 @@
 import pandas as pd
 import numpy as np
-import touch
+import torch
+
+# The Neural network 
+model = 
